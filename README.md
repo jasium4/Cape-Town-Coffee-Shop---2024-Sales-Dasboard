@@ -1,6 +1,6 @@
 # Cape Town Coffee Shop – March 2024 Sales Dashboard (Excel)
 
-![Dashboard Screenshot](screenshot.png)  <!-- Replace with your screenshot file name -->
+![Dashboard Screenshot](Screenshot.png)  <!-- Replace with your screenshot file name -->
 
 ## Project Overview
 Built an interactive **Excel dashboard** to analyze daily sales transactions, revenue, and coffee popularity for a Cape Town coffee shop in March 2024.
